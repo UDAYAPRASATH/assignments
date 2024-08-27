@@ -18,3 +18,6 @@ public class PositiveNumbers {
 	}
 
 }
+/*Console:
+ * The numbers is negative
+ */
