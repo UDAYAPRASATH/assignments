@@ -8,7 +8,7 @@ public class PrimeNumber {
 	
 	boolean flag=false;
 	
-	for(int i=2;i<Math.sqrt(a);i++)
+	for(int i=2;i<a/2;i++)
 	{
 		if(a%i==0)
 		{
