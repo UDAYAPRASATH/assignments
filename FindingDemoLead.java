@@ -37,7 +37,7 @@ public class FindingDemoLead {
 				Thread.sleep(1000);
 				WebElement e=driver.findElement(By.xpath("//div[text()='No records to display']"));
 				String verify=e.getText();
-				System.out.println(verify);
+				// System.out.println(verify);
 				
 				if(verify.equals("No records to display"))
 				{
