@@ -17,7 +17,7 @@ public class SortingUsingCollections {
 		
 		Collections.sort(li);
 		
-		System.out.println(li);
+		System.out.println(li.reversed());
 		
 	}
 
